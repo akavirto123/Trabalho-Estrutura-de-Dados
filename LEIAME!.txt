@@ -1,0 +1,7 @@
+Criar uma pasta com o nome "attached_assets" com o dataset dentro como na imagem.
+
+Na mesma tela da imagem abrir o prompt de comando e executar: gcc -o sapa.exe sapa_final_corrigido.c -lm
+Ou:gcc -o sapa.exe sapa_final_corrigido.c -lm
+.\sapa.exe
+
+Isso vai criar um Arquivo.exe na pasta! :)
